@@ -1,5 +1,6 @@
 # Bank Churn Prediction
 **Problem Statement:** Banks face financial loss when customers leave. The goal is to build a predictive model that can help retain customers by identifying those most likely to churn.
+
 **Aim:** This project aims to predict whether a customer will churn or not using classification models. The objective is to identify high-risk customers while avoiding unnecessary alerts to loyal ones, balancing both recall and precision through the F1 score.
 
 **Data Preprocessing:**
